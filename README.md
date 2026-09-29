@@ -26,7 +26,7 @@ Como Rodar o Projeto
 
 Baixe ou clone este repositório:
 
-git clone https://github.com/seuusuario/portfolio.git
+git clone https://github.com/Samrodrigues015/Portifolio.git
 
 
 Abra o arquivo index.html diretamente no navegador
